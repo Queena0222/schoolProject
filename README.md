@@ -1,5 +1,3 @@
-# schoolProject
-學員管理系統範例
 # GJSchool專案
 ## 第一章
 ### 第一小節
